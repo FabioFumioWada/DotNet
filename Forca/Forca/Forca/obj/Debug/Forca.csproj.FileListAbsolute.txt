@@ -1,0 +1,8 @@
+C:\Fumio\Pendentes\C#\Forca\Forca\Forca\bin\Debug\Forca.exe
+C:\Fumio\Pendentes\C#\Forca\Forca\Forca\bin\Debug\Forca.pdb
+C:\Fumio\Pendentes\C#\Forca\Forca\Forca\obj\Debug\ResolveAssemblyReference.cache
+C:\Fumio\Pendentes\C#\Forca\Forca\Forca\obj\Debug\Forca.frmPrincipal.resources
+C:\Fumio\Pendentes\C#\Forca\Forca\Forca\obj\Debug\Forca.Properties.Resources.resources
+C:\Fumio\Pendentes\C#\Forca\Forca\Forca\obj\Debug\Forca.csproj.GenerateResource.Cache
+C:\Fumio\Pendentes\C#\Forca\Forca\Forca\obj\Debug\Forca.exe
+C:\Fumio\Pendentes\C#\Forca\Forca\Forca\obj\Debug\Forca.pdb
