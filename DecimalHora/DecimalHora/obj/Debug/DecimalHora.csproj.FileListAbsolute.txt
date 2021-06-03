@@ -1,0 +1,8 @@
+C:\Fumio\Pendentes\C#\DecimalHora\DecimalHora\bin\Debug\DecimalHora.exe
+C:\Fumio\Pendentes\C#\DecimalHora\DecimalHora\bin\Debug\DecimalHora.pdb
+C:\Fumio\Pendentes\C#\DecimalHora\DecimalHora\obj\Debug\ResolveAssemblyReference.cache
+C:\Fumio\Pendentes\C#\DecimalHora\DecimalHora\obj\Debug\DecimalHora.Form1.resources
+C:\Fumio\Pendentes\C#\DecimalHora\DecimalHora\obj\Debug\DecimalHora.Properties.Resources.resources
+C:\Fumio\Pendentes\C#\DecimalHora\DecimalHora\obj\Debug\DecimalHora.csproj.GenerateResource.Cache
+C:\Fumio\Pendentes\C#\DecimalHora\DecimalHora\obj\Debug\DecimalHora.exe
+C:\Fumio\Pendentes\C#\DecimalHora\DecimalHora\obj\Debug\DecimalHora.pdb
