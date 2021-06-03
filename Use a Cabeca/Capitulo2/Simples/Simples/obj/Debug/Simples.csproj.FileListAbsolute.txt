@@ -1,0 +1,8 @@
+C:\Fumio\Pendentes\C#\Use a Cabeca\Capitulo2\Simples\Simples\obj\Debug\ResolveAssemblyReference.cache
+C:\Fumio\Pendentes\C#\Use a Cabeca\Capitulo2\Simples\Simples\obj\Debug\Simples.Form1.resources
+C:\Fumio\Pendentes\C#\Use a Cabeca\Capitulo2\Simples\Simples\obj\Debug\Simples.Properties.Resources.resources
+C:\Fumio\Pendentes\C#\Use a Cabeca\Capitulo2\Simples\Simples\obj\Debug\Simples.csproj.GenerateResource.Cache
+C:\Fumio\Pendentes\C#\Use a Cabeca\Capitulo2\Simples\Simples\bin\Debug\Simples.exe
+C:\Fumio\Pendentes\C#\Use a Cabeca\Capitulo2\Simples\Simples\bin\Debug\Simples.pdb
+C:\Fumio\Pendentes\C#\Use a Cabeca\Capitulo2\Simples\Simples\obj\Debug\Simples.exe
+C:\Fumio\Pendentes\C#\Use a Cabeca\Capitulo2\Simples\Simples\obj\Debug\Simples.pdb
