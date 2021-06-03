@@ -1,0 +1,8 @@
+C:\Fumio\Pendentes\C#\SistemaBinario\Sistema Binario\bin\Debug\Sistema Binario.exe
+C:\Fumio\Pendentes\C#\SistemaBinario\Sistema Binario\bin\Debug\Sistema Binario.pdb
+C:\Fumio\Pendentes\C#\SistemaBinario\Sistema Binario\obj\Debug\ResolveAssemblyReference.cache
+C:\Fumio\Pendentes\C#\SistemaBinario\Sistema Binario\obj\Debug\Sistema_Binario.frmSistemaBinario.resources
+C:\Fumio\Pendentes\C#\SistemaBinario\Sistema Binario\obj\Debug\Sistema_Binario.Properties.Resources.resources
+C:\Fumio\Pendentes\C#\SistemaBinario\Sistema Binario\obj\Debug\Sistema Binario.csproj.GenerateResource.Cache
+C:\Fumio\Pendentes\C#\SistemaBinario\Sistema Binario\obj\Debug\Sistema Binario.exe
+C:\Fumio\Pendentes\C#\SistemaBinario\Sistema Binario\obj\Debug\Sistema Binario.pdb
