@@ -1,0 +1,10 @@
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\bin\Debug\Subtração.exe
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\bin\Debug\Subtração.pdb
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\obj\Debug\ResolveAssemblyReference.cache
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\obj\Debug\Adição.frmAdicao.resources
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\obj\Debug\Adição.frm_Acerto.resources
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\obj\Debug\Adição.frm_Erro.resources
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\obj\Debug\Subtração.Properties.Resources.resources
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\obj\Debug\Adiç¦o.csproj.GenerateResource.Cache
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\obj\Debug\Subtração.exe
+C:\Fumio\Pendentes\C#\Substracao\Substraç¦o2\Adiç¦o\Adiç¦o\obj\Debug\Subtração.pdb
