@@ -1,0 +1,8 @@
+C:\Fumio\Pendentes\C#\Regrade3\Regra de 3\bin\Debug\Regra de 3.exe
+C:\Fumio\Pendentes\C#\Regrade3\Regra de 3\bin\Debug\Regra de 3.pdb
+C:\Fumio\Pendentes\C#\Regrade3\Regra de 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Fumio\Pendentes\C#\Regrade3\Regra de 3\obj\Debug\Regra_de_3.Form1.resources
+C:\Fumio\Pendentes\C#\Regrade3\Regra de 3\obj\Debug\Regra_de_3.Properties.Resources.resources
+C:\Fumio\Pendentes\C#\Regrade3\Regra de 3\obj\Debug\Regra de 3.csproj.GenerateResource.Cache
+C:\Fumio\Pendentes\C#\Regrade3\Regra de 3\obj\Debug\Regra de 3.exe
+C:\Fumio\Pendentes\C#\Regrade3\Regra de 3\obj\Debug\Regra de 3.pdb
