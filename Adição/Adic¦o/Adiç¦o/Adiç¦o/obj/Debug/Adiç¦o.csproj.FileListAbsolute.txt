@@ -1,0 +1,10 @@
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\bin\Debug\Adição.exe
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\bin\Debug\Adição.pdb
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\obj\Debug\ResolveAssemblyReference.cache
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\obj\Debug\Adição.frmAdicao.resources
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\obj\Debug\Adição.frm_Acerto.resources
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\obj\Debug\Adição.frm_Erro.resources
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\obj\Debug\Adição.Properties.Resources.resources
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\obj\Debug\Adiç¦o.csproj.GenerateResource.Cache
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\obj\Debug\Adição.exe
+C:\Fumio\Pendentes\C#\Adição\Adic¦o\Adiç¦o\Adiç¦o\obj\Debug\Adição.pdb
